@@ -1,0 +1,5 @@
+[
+{"keys": ["ctrl+shift+f12"], "command": "unexpand_tabs", "args": { "set_translate_tabs": false } },
+{ "keys": ["ctrl+shift+f11"], "command": "expand_tabs", "args": { "set_translate_tabs": false } },
+{ "keys": ["ctrl+shift+f10"], "command": "reindent", "args": {"single_line": false} }
+]

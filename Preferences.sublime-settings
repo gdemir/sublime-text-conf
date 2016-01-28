@@ -1,0 +1,11 @@
+{
+	// Tema : Preferences > Color Scheme > Monokai
+  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+  // Sekme(Tab) Boyutu : 2
+	"tab_size": 2,
+	// Beyaz Boşluk '', '\t' otomatik sil, güncelle
+	"trim_trailing_white_space_on_save": true
+	// tab basıldığında
+  //"translate_tabs_to_spaces": false
+
+}
